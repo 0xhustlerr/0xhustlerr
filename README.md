@@ -62,10 +62,6 @@ Let’s connect and build something great together!
 	<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
 ## Github Stats:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=0xhustlerr&show_icons=true)
