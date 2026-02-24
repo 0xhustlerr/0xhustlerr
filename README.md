@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi there, i'm 0xhustlerr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**0xhustlerr/0xhustlerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kevirui&label=Profile%20views&color=0047AB&style=for-the-badge?" alt="7oSkaaa" height=25px, width=160px/> 
+</p>
 
-Here are some ideas to get you started:
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+I'am a passionate Senior Full-Stack Engineer. With a strong interest in web development and artificial intelligence, I am constantly seeking to enhance my skills and stay updated with the latest technologies.
+
+I have a knack for problem-solving and enjoy working on innovative projects. I'm particularly fascinated by the potential of AI in automating processes and enhancing decision-making.
+
+I love to learn and build something new, productive, innovative and creative.
+
+In my spare time, I also enjoy learning new languages, staying active, and challenging myself with new personal projects. I'm always open to collaboration and excited about opportunities where I can contribute, learn, and grow professionally.
+
+Let’s connect and build something great together!
+
+- 👯 I’m looking to collaborate on open source projects.
+- 🌟 Outside tech, 🎮I love playing strategy and war videogames, 🏋Health life, 🎧Listening to music and 🎸Playing the guitar.
+- ✔️ Ask me about anything, i am happy to help.
+- :boom: You can visit [MY WEBSITE](https://).
+
+## My Skills Include
+
+### Languages 
+
+<p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=lightblue"/>
+    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+   
+### Frameworks
+<p align="left">
+	<img src="https://img.shields.io/badge/nextjs-007396?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/astro-007396?style=for-the-badge&logo=astro&logoColor=white"/>
+    <img src="https://img.shields.io/badge/react-007396?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white" />
+</p>
+
+### Other Tools and Technologies
+<p align="left">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img src="https://img.shields.io/badge/mongodb-4169E1?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center">
+	<a href="mailto:"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href=""><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+
+## Github Stats:
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=0xhustlerr&show_icons=true)
