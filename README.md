@@ -8,19 +8,21 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I'am a passionate Senior Full-Stack Engineer. With a strong interest in web development and artificial intelligence, I am constantly seeking to enhance my skills and stay updated with the latest technologies.
+I'm a passionate Senior Full-Stack Engineer. With a strong interest in web development and artificial intelligence, I am constantly seeking to enhance my skills and stay updated with the latest technologies.
 
 I have a knack for problem-solving and enjoy working on innovative projects. I'm particularly fascinated by the potential of AI in automating processes and enhancing decision-making.
 
-I love to learn and build something new, productive, innovative and creative.
+I love to learn and build something new, productive, innovative, and creative.
 
-In my spare time, I also enjoy learning new languages, staying active, and challenging myself with new personal projects. I'm always open to collaboration and excited about opportunities where I can contribute, learn, and grow professionally.
+In my spare time, I also enjoy learning new languages, staying active, and challenging myself with new personal projects. 
+
+I'm always open to collaboration and excited about opportunities where I can contribute, learn, and grow professionally.
 
 Let’s connect and build something great together!
 
 - 👯 I’m looking to collaborate on open source projects.
 - 🌟 Outside tech, 🎮I love playing strategy and war videogames, 🏋Health life, 🎧Listening to music and 🎸Playing the guitar.
-- ✔️ Ask me about anything, i am happy to help.
+- ✔️ Ask me about anything, I am happy to help.
 - :boom: You can visit [MY WEBSITE](https://).
 
 ## My Skills Include
