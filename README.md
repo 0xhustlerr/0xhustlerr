@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, i'm 0xhustlerr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevirui&label=Profile%20views&color=0047AB&style=for-the-badge?" alt="7oSkaaa" height=25px, width=160px/> 
-</p>
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 I'm a passionate Senior Full-Stack Engineer. I'm passionate about web development and artificial intelligence, and I'm always looking to improve my skills and stay current with the latest technologies.
