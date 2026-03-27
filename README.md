@@ -4,15 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=kevirui&label=Profile%20views&color=0047AB&style=for-the-badge?" alt="7oSkaaa" height=25px, width=160px/> 
 </p>
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I'm a passionate Senior Full-Stack Engineer. With a strong interest in web development and artificial intelligence, I am constantly seeking to enhance my skills and stay updated with the latest technologies.
+I'm a passionate Senior Full-Stack Engineer. I'm passionate about web development and artificial intelligence, and I'm always looking to improve my skills and stay current with the latest technologies.
 
 I have a knack for problem-solving and enjoy working on innovative projects. I'm particularly fascinated by the potential of AI in automating processes and enhancing decision-making.
 
-I love to learn and build something new, productive, innovative, and creative.
+I love learning and building something new, productive, innovative, and creative.
 
 In my spare time, I also enjoy learning new languages, staying active, and challenging myself with new personal projects. 
 
@@ -33,19 +31,24 @@ Let’s connect and build something great together!
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=lightblue"/>
-    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=lightblue"/>
+	<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=lightblue"/>
+    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+	<img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
    
 ### Frameworks
 <p align="left">
-	<img src="https://img.shields.io/badge/nextjs-007396?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-	<img src="https://img.shields.io/badge/astro-007396?style=for-the-badge&logo=astro&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-007396?style=for-the-badge&logo=react&logoColor=white" />
+	<img src="https://img.shields.io/badge/nextjs-007396?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white" />
+	<img src="https://img.shields.io/badge/astro-007396?style=for-the-badge&logo=astro&logoColor=white"/>
+	<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+	<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+	<img src="https://img.shields.io/badge/web3dotjs-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
 ### Other Tools and Technologies
@@ -63,7 +66,3 @@ Let’s connect and build something great together!
 	<a href=""><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
-## Github Stats:
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=0xhustlerr&show_icons=true)
