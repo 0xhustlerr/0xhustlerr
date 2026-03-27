@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <b>0xhustlerr</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm <strong>0xhustlerr</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -32,6 +32,8 @@ Let’s connect and build something great together!
 	<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=lightblue"/>
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 	<img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+	<img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+	<img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
    
 ### Frameworks
@@ -43,8 +45,13 @@ Let’s connect and build something great together!
 	<img src="https://img.shields.io/badge/astro-007396?style=for-the-badge&logo=astro&logoColor=white"/>
 	<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 	<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-	<img src="https://img.shields.io/badge/web3dotjs-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
 	<img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+	<img src="https://img.shields.io/badge/web3dotjs-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+	<img src="https://img.shields.io/badge/solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+	<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+	<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+	<img src="https://img.shields.io/badge/langchain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
 
 ### Other Tools and Technologies
