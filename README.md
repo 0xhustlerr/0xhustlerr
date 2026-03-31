@@ -18,7 +18,7 @@ Let’s connect and build something great together!
 - 🌟 Outside tech, 🎮I love playing strategy and war videogames, 🏋Health life, 🎧Listening to music and 🎸Playing the guitar.
 - ✔️ Ask me about anything, I am happy to help.
 
-## My Skills Include
+## My Skills
 
 ### Languages 
 
