@@ -17,7 +17,6 @@ Let’s connect and build something great together!
 - 👯 I’m looking to collaborate on open source projects.
 - 🌟 Outside tech, 🎮I love playing strategy and war videogames, 🏋Health life, 🎧Listening to music and 🎸Playing the guitar.
 - ✔️ Ask me about anything, I am happy to help.
-- :boom: You can visit [MY WEBSITE](https://).
 
 ## My Skills Include
 
