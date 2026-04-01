@@ -2,7 +2,7 @@
 
 <picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlyYW51OGl0bW9nbzlncnljNm0zdjA2ZWwxcTNwMjV6eDJ5Z2V5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width = 250px></picture>
 
-I'm a passionate Senior Full-Stack Engineer. I'm passionate about web development and artificial intelligence, and I'm always looking to improve my skills and stay current with the latest technologies.
+I'm a Senior Full-Stack Engineer. I'm passionate about web development and artificial intelligence, and I'm always looking to improve my skills and stay current with the latest technologies.
 
 I have a knack for problem-solving and enjoy working on innovative projects. I'm particularly fascinated by the potential of AI in automating processes and enhancing decision-making.
 
